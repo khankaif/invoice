@@ -1,1 +1,2 @@
-Just a local invoicing app for internal use powered by Ollama
+Just a local invoicing app for internal use, powered by Ollama/open-router
+
